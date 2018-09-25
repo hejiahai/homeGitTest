@@ -8,5 +8,6 @@ namespace gitTest
     public class Class
     {
         string db = "";
+
     }
 }
